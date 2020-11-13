@@ -1,4 +1,3 @@
-___
 <img src="https://www.up.edu.mx/manualgrafico/HRfiles/imagen/escudo_CH001.jpg" width="300"/>
 
 # Videogames Sales Predictions
